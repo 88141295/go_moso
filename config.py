@@ -1,7 +1,7 @@
 articleId = "6E69F4F1-518A-11EA-9C7F-98039B1848C6&id=DB3CC8C0-8262-C3ED-A312-7DC32791B771"#此处为蓝墨云活动的id
 courseId = "6E69F4F1-518A-11EA-9C7F-98039B1848C6"#此处为蓝墨云的班级id
-sleepNumber = 0#此值/60等于蓝墨云真实的做题用时时间
-k = 0#此值代表随机选择试题的数量
+sleepNumber = 40#此值/60等于蓝墨云真实的做题用时时间
+k = 20#此值代表随机选择试题的数量
 URL_ROOT = r'https://www.mosoteach.cn/web/index.php?c=passport&m=account_login'#蓝墨云登陆提交地址
 values = {
         'account_name': '15766771113',  # 此处为蓝墨云的账号
